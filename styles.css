@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+	
+}
+.clear {
+	clear: both;
+	}
+.container {
+	width: 50%;
+	margin: 0 auto;
+	border: 1px solid #999;
+	padding: 10px;
+	background:  #f9f9f9;
+}
+.heder{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.headline {
+	text-transform: uppercase;
+	color:#999;
+	font-weight: 700;
+	letter-spacing: 2px;
+	font-size:  15px;
+}
+.text-left .text-right {
+	float: left;
+	text-align: right;
+	width: 50%;
+	padding: 5px 20px;
+}
+.text-right {
+	float: right;
+	text-align: left;
+}
+
+.title{
+text-transform: uppercase;
+color: blue;
+letter-spacing: 2pc;
+}	
+
+img{
+	width: 40%;
+}
